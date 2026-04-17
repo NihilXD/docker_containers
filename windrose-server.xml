@@ -15,7 +15,7 @@
   </Overview>
   <Category>GameServers:</Category>
   <WebUI/>
-  <TemplateURL>https://raw.githubusercontent.com/NihilXD/windrose-docker/main/windrose-server.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/NihilXD/docker_containers/main/windrose-server.xml</TemplateURL>
   <Icon>https://cdn.cloudflare.steamstatic.com/steam/apps/2872140/header.jpg</Icon>
   <ExtraParams>--stop-timeout 30</ExtraParams>
   <PostArgs/>
